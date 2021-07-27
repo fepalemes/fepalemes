@@ -2,6 +2,6 @@
 
 ## About me
 
-Graduated in Information Systems at PUC-SP and studying MBA in Software Engineering at FIT-SP. Seven years in the IT market developing and analyzing systems.
+Graduated in Information Systems from PUC-SP and MBA in Software Engineering from FIT-SP. Seven years in the IT market developing and analyzing systems.
 
 
