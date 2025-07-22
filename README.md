@@ -25,8 +25,8 @@ I focus on continuous technology improvement within the institution and approach
 
 ## 🌐 Let's Connect
 
-- 🧑‍💻 Website: [https://fepalemes.com.br](https://fepalemes.com.br)
-- 🟦 Linkedin: [https://fepalemes.com.br](https://www.linkedin.com/in/felipe-lemes/)
-- Ⓜ️ Medium: [https://medium.com/@fepalemes](https://medium.com/@fepalemes)
+- 🧑‍💻 Website: [fepalemes.com.br](https://fepalemes.com.br)
+- 🟦 Linkedin: [linkedin.com/in/felipe-lemes/](https://www.linkedin.com/in/felipe-lemes/)
+- Ⓜ️ Medium: [medium.com/@fepalemes](https://medium.com/@fepalemes)
 - 📷 Instagram: [@fepalemes](https://www.instagram.com/fepalemes)
 - ✉️ E-mail: [me@fepalemes.com.br](malito:me@fepalemes.com.br)
