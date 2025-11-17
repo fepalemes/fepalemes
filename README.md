@@ -19,9 +19,9 @@ I focus on continuous technology improvement within the institution and approach
 
 - 💸 [Wequity](https://wequity.com.br) - Ditch the spreadsheets and take control. Wequity is the platform for founders seeking clarity, security, and professionalism in managing their equity and investor relations.
 
-- 📢 [Opiny](https://opiny.com.br) — Create custom forms and pages that capture user data while delivering desired content, such as documents, links, or materials. A practical and efficient solution for converting visits into opportunities.
+- 📢 [Opiny](https://opiny.com.br) — Create dynamic, personalized surveys that integrate seamlessly with your platform or app, allowing you to collect NPS, reviews, opinions, issue reports, and more, directly within the user flow. Simple, effective, and essential for understanding and improving every interaction.
 
-- 🔗 [Link2Leads](https://link2leads.io) — Create dynamic, personalized surveys that integrate seamlessly with your platform or app, allowing you to collect NPS, reviews, opinions, issue reports, and more, directly within the user flow. Simple, effective, and essential for understanding and improving every interaction.
+- 🔗 [Link2Leads](https://link2leads.io) — Create custom forms and pages that capture user data while delivering desired content, such as documents, links, or materials. A practical and efficient solution for converting visits into opportunities.
 
 ## 🌐 Let's Connect
 
