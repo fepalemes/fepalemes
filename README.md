@@ -14,18 +14,24 @@ I focus on continuous technology improvement within the institution and approach
 - DevOps
 - Observability
 - Cloud
+- SaaS
+- IA
 
 ## 💼 My SaaS
 
+- 📢 [Opiny](https://opiny.com.br) — Create dynamic, personalized surveys that integrate seamlessly with your platform or app, allowing you to collect NPS, reviews, opinions, issue reports, and more, directly within the user flow. Simple, effective, and essential for understanding and improving every interaction.
+ 
 - 💸 [Wequity](https://wequity.com.br) - Ditch the spreadsheets and take control. Wequity is the platform for founders seeking clarity, security, and professionalism in managing their equity and investor relations.
 
-- 📢 [Opiny](https://opiny.com.br) — Create dynamic, personalized surveys that integrate seamlessly with your platform or app, allowing you to collect NPS, reviews, opinions, issue reports, and more, directly within the user flow. Simple, effective, and essential for understanding and improving every interaction.
-
 - 🔗 [Link2Leads](https://link2leads.io) — Create custom forms and pages that capture user data while delivering desired content, such as documents, links, or materials. A practical and efficient solution for converting visits into opportunities.
+
+- 🎟️ [Relay](#) - In planning...
+
 
 ## 🌐 Let's Connect
 
 - 🧑‍💻 Website: [fepalemes.com.br](https://fepalemes.com.br)
+- 🎥 YouTube: [@fepalemes](https://www.youtube.com/@fepalemes)
 - 🟦 Linkedin: [linkedin.com/in/felipe-lemes/](https://www.linkedin.com/in/felipe-lemes/)
 - Ⓜ️ Medium: [medium.com/@fepalemes](https://medium.com/@fepalemes)
 - 📷 Instagram: [@fepalemes](https://www.instagram.com/fepalemes)
