@@ -27,6 +27,9 @@ I focus on continuous technology improvement within the institution and approach
 
 - 🎟️ [Relay](#) - In planning...
 
+- 📗 [MentoriaHub](#) - In planning...
+
+- 🧠 [Cognos](#) - In planning...
 
 ## 🌐 Let's Connect
 
